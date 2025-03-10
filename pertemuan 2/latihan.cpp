@@ -8,7 +8,7 @@ int main (){
     cout << "Masukkan jari jari : ";
     cin >> r;
 
-    volume = 4 / 3 * phi * r * r * r;
+    volume = 4 * phi * r * r * r / 3;
     lp = 4 * phi * r * r;
 
     cout << volume << endl;
