@@ -10,7 +10,7 @@ int main(){
     // }
 
     //Add data to vector
-    nama.push_back("toriq");
+    nama.push_back("toriq"); //menambahkan data baru ke index paling belakang dari sebuah vector
     for(string n : nama){
         cout << n << endl;
     }
