@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+//program ini untuk mencari luas dari segi empat
+
 int main(){
     float luas, p, l;
 
