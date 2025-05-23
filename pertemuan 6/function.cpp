@@ -11,7 +11,7 @@ int fungsi2(int a, int b){
     return a + b;
 }
 
-//Fungsi Overload
+//Fungsi Overload (jadi ada 2 atau lebih return)
 int fungsi3(int a, int b){
     return a * b;
 }
