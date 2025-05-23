@@ -45,7 +45,7 @@ int main(){
     //    }
     //}
 
-    // switch case
+    // switch case (lebih simpel dibanding if else)
     //switch (nilai){
     //    case 1: cout << "senin" << endl; break;
     //    case 2: cout << "selasa" << endl; break;
@@ -57,7 +57,7 @@ int main(){
     //    default: cout << "inputan tidak valid" << endl; break;
     //}
 
-    // switch range
+    // switch range (memberikan opsi tambahan yaitu range nilai)
     //switch (nilai){
     //    case 85 ... 100 : cout << 'A' << endl; break;
     //    case 80 ... 84 : cout << "B+" << endl; break;
