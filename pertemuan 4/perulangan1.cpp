@@ -2,7 +2,8 @@
 using namespace std;
 
 int main(){
-    // goto label
+    // goto label (digunakan ketika ingin melompati sebuah syntax)
+    
     // hello world, fasilkom-ti, ilmu komputer, IKLC
     // a:
     //     cout << "hello world" << endl;
@@ -28,7 +29,7 @@ int main(){
     //     goto genap;
     // }
 
-    // while
+    // while (akan mengecek kondisi dulu)
     // int i = 1;
     // while (i <= 10){
     //     if (i % 2 == 0){
@@ -36,7 +37,7 @@ int main(){
     //     } i++;
     // }
 
-    // do-while
+    // do-while (akan melakukan tugas dlu baru mengecek kondisi)
     // int i = 1;
     // do {
     //     cout << i << endl;   
@@ -48,7 +49,7 @@ int main(){
     //     cout << i << endl;
     // }
 
-    // nested for
+    // nested for 
     // for (int i = 1; i <=5; i++){
     //     for(int j = 1; j <=5; j++){
     //         cout << "*";
