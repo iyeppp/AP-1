@@ -24,7 +24,7 @@ int main(){
     //cout << modulo;
     
 
-    // Relational Operator
+    // Relational Operator (syntax ini berguna untuk mengecek apakah angka pertama sama, lebih, kurang, dst. dengan angka kedua)
     //cout << (a==b) << endl;
     //cout << (a>b) << endl;
     //cout << (a>=b) << endl;
@@ -33,7 +33,7 @@ int main(){
     //cout << (a!=b) << endl;
 
 
-    // Logical Operator (&&, ||, !)
+    // Logical Operator (&&, ||, !) (syntax ini berguna untuk membandingkan dua pernyataan atau angka)
     //cout << (true && true) << endl;
     //cout << (true && false) << endl;
     //cout << (false && true) << endl;
@@ -48,7 +48,7 @@ int main(){
     //cout << (!false) << endl;
 
 
-    // Bitwise Operator (&, |, ^, ~, <<, >>)
+    // Bitwise Operator (&, |, ^, ~, <<, >>) (semua operator disamping digunakan untuk melakukan perhitungan dengan angka biner)
     //cout << (5 & 7) << endl;
     //cout << (5 | 7) << endl;
     //cout << (5 ^ 7) << endl;
@@ -57,7 +57,7 @@ int main(){
     //cout << (7 >> 2) << endl;
 
 
-    // Shorthand
+    // Shorthand (shortcut untuk menambah, mengurangi, mengkali, membagi sebuah variabel)
     /*a += 7;
     cout << a << endl;
     
