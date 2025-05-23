@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-class contohakses{
+class contohakses{ //private merupakan kasta tertinggi di class
     private:
         int privatevar;
     protected:
@@ -27,7 +27,7 @@ class contohakses{
 class Turunan : public contohakses{
     public:
     void aksesproc(){
-        // cout << privatevar << endl; // error
+        // cout << privatevar << endl; // error karena diluar dari class utama
         cout << procvar << endl;
         cout << pubvar << endl;
     }
