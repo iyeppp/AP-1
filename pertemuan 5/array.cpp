@@ -38,7 +38,7 @@ int main(){
     //     cout << nama[i] << endl;
     // }
 
-    //Multidimensional Array
+    //Multidimensional Array (biasanya digunakan untuk membuat sebuah matriks)
 
     //Array Matriks 2x3
     // int matriks[2][3] = {{1,3,5},{2,4,6}};
@@ -79,15 +79,15 @@ int main(){
     // s1 = s1 + s2;
     // cout << s1;
 
-    //string.length
+    //string.length (untuk memberikan panjang sebuah string dalam bentuk index)
     // cout << s1.length() << endl;
     // cout << (s1 + s2).length() << endl;
     
-    //string.substring
+    //string.substring (digunakan untuk mengambil pecahan string sesuai dengan masukan index nya)
     // cout << s1.substr(2,3) << endl;
     // cout << (s1 + s2).substr(5,2) << endl;
 
-    //Operator sizeof()
+    //Operator sizeof (digunakan untuk mengecek ukuran dari sebuah variabel)
     // int angka = 10;
     // cout << sizeof(angka);
 
