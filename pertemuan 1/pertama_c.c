@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <conio.h>
 
+//program ini untuk menampilkan data mahasiswa
+
 int main(){
     system("cls");
     char nama[50];
