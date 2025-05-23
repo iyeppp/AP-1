@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-struct Mahasiswa{
+struct Mahasiswa{ //contoh bentuk dari struct
     string nama, nim;
     int umur;
     float ipk;
@@ -25,7 +25,7 @@ int main(){
     //Akses struct menggunakan tanda panah (->)
     Mahasiswa *ptrmhs = &mhs1;
     cout << "akses dengan -> : " << endl;
-    cout << "nama : " << ptrmhs->nama << endl;
+    cout << "nama : " << ptrmhs->nama << endl; //jika ingin akses struct selalu ingat tanda ->
     cout << "umur : " << ptrmhs->umur << endl;
     cout << "ipk  : " << ptrmhs->ipk << endl;
 
